@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakeena Shaik</h1>
 <h3 align="center">Hello! I am a dedicated and enthusiastic DevOps Engineer from India, with over 4 years of experience in the dynamic world of DevOps</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakeena19&label=Profile%20views&color=0e75b6&style=flat" alt="sakeena19" /> </p>
+
 
 - 💬 Ask me about **DevOps**
 
@@ -62,7 +62,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakeena-shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakeena-shaik" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sakeenashaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sakeenashaik" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakeena19&show_icons=true&locale=en&layout=compact" alt="sakeena19" /></p>
